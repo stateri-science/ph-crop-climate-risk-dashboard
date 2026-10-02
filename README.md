@@ -73,7 +73,7 @@ data/raw/   download instructions only
 ## Roadmap
 
 - [x] Audit raw data and design the cleaning rules
-- [ ] SQLite scripts
+- [x] SQLite scripts
 - [ ] Data model and validation
 - [ ] Power BI dashboard
 - [ ] Dashboard screenshots and findings
