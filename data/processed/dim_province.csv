@@ -1,0 +1,53 @@
+province,region,country,first_year,last_year,is_historical,is_new_in_2025
+AGUSAN DEL NORTE,Caraga,Philippines,2010,2025,0,0
+AGUSAN DEL SUR,Caraga,Philippines,2010,2025,0,0
+ALBAY,Bicol Region,Philippines,2010,2025,0,0
+BASILAN,BARMM,Philippines,2010,2025,0,0
+BATAAN,Central Luzon,Philippines,2011,2025,0,0
+BATANGAS,CALABARZON,Philippines,2010,2025,0,0
+BENGUET,Cordillera Administrative Region,Philippines,2010,2025,0,0
+BUKIDNON,Northern Mindanao,Philippines,2010,2025,0,0
+BULACAN,Central Luzon,Philippines,2010,2025,0,0
+CAMARINES NORTE,Bicol Region,Philippines,2010,2025,0,0
+CAMARINES SUR,Bicol Region,Philippines,2010,2025,0,0
+CAPIZ,Western Visayas,Philippines,2010,2025,0,0
+CAVITE,CALABARZON,Philippines,2010,2025,0,0
+CEBU,Central Visayas,Philippines,2010,2025,0,0
+COTABATO,SOCCSKSARGEN,Philippines,2010,2025,0,0
+DAVAO,Davao Region,Philippines,2010,2022,1,0
+DAVAO DE ORO,Davao Region,Philippines,2010,2025,0,0
+DAVAO DEL NORTE,Davao Region,Philippines,2010,2025,0,0
+DAVAO DEL SUR,Davao Region,Philippines,2010,2025,0,0
+DAVAO OCCIDENTAL,Davao Region,Philippines,2020,2025,0,0
+DAVAO ORIENTAL,Davao Region,Philippines,2010,2025,0,0
+EASTERN SAMAR,Eastern Visayas,Philippines,2010,2025,0,0
+ILOCOS NORTE,Ilocos Region,Philippines,2010,2025,0,0
+ILOCOS SUR,Ilocos Region,Philippines,2010,2025,0,0
+ILOILO,Western Visayas,Philippines,2010,2025,0,0
+ISABELA,Cagayan Valley,Philippines,2010,2025,0,0
+LA UNION,Ilocos Region,Philippines,2010,2025,0,0
+LAGUNA,CALABARZON,Philippines,2010,2025,0,0
+LANAO DEL NORTE,Northern Mindanao,Philippines,2010,2025,0,0
+LANAO DEL SUR,BARMM,Philippines,2010,2025,0,0
+LEYTE,Eastern Visayas,Philippines,2010,2025,0,0
+MAGUINDANAO DEL NORTE,BARMM,Philippines,2025,2025,0,1
+MAGUINDANAO DEL SUR,BARMM,Philippines,2011,2025,0,0
+MASBATE,Bicol Region,Philippines,2011,2025,0,0
+MISAMIS OCCIDENTAL,Northern Mindanao,Philippines,2010,2025,0,0
+MISAMIS ORIENTAL,Northern Mindanao,Philippines,2010,2025,0,0
+NEGROS OCCIDENTAL,Western Visayas,Philippines,2025,2025,0,1
+NUEVA ECIJA,Central Luzon,Philippines,2010,2025,0,0
+ORIENTAL MINDORO,MIMAROPA,Philippines,2011,2025,0,0
+PALAWAN,MIMAROPA,Philippines,2010,2025,0,0
+PAMPANGA,Central Luzon,Philippines,2010,2025,0,0
+PANGASINAN,Ilocos Region,Philippines,2010,2025,0,0
+QUEZON,CALABARZON,Philippines,2010,2025,0,0
+RIZAL,CALABARZON,Philippines,2011,2025,0,0
+SAMAR,Eastern Visayas,Philippines,2010,2025,0,0
+SOUTH COTABATO,SOCCSKSARGEN,Philippines,2010,2025,0,0
+SOUTHERN LEYTE,Eastern Visayas,Philippines,2010,2025,0,0
+SURIGAO DEL SUR,Caraga,Philippines,2010,2025,0,0
+ZAMBALES,Central Luzon,Philippines,2010,2025,0,0
+ZAMBOANGA DEL NORTE,Zamboanga Peninsula,Philippines,2010,2025,0,0
+ZAMBOANGA DEL SUR,Zamboanga Peninsula,Philippines,2010,2025,0,0
+ZAMBOANGA SIBUGAY,Zamboanga Peninsula,Philippines,2010,2025,0,0
