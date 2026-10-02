@@ -1,0 +1,11 @@
+## Data
+
+**Philippine Crop Trend Risk Data, 2010 to 2025** (Kaggle). Province quarter crop production in metric tons, with weather covariates and ENSO context.
+
+| File | Description |
+|---|---|
+| `crop_trend_master_2025q4.csv` | Main table: 167,699 rows, 53 provinces, 89 crops |
+| `province_quarterly_weather_ready_for_merge_2010_2025.csv` | Weather and ENSO by province and quarter |
+| `data_dictionary.csv` | Column definitions and units |
+
+The raw files are not stored in this repository. See [`https://www.kaggle.com/datasets/josiahdanielcatabay/cropforecast-ph-crop-trend-risk-2010-2025`) for the download link.
